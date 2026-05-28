@@ -1,4 +1,4 @@
-import { positions } from "../Data/data";
+import { positions } from "../data/data";
 
 const Positions = () => {
   return (
