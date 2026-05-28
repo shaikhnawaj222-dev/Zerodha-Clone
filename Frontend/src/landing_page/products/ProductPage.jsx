@@ -5,7 +5,7 @@ import Universe from "./Universe";
 import KitePng from "../../assets/kite.png";
 import ConsolePng from "../../assets/console.png";
 import CoinPng from "../../assets/coin.png";
-import KiteConnectPng from "../../assets/kiteConnect.png";
+import KiteConnectPng from "../../assets/kiteconnect.png";
 import VarsityPng from "../../assets/varsity.png";
 
 
