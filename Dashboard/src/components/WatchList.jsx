@@ -11,7 +11,7 @@ import {
   MoreHoriz,
 } from "@mui/icons-material";
 
-import { watchlist } from "../data/data";
+import { watchlist } from "../Data/data";
 import { DoughnutChart } from "./DoughnoutChart";
 
 const labels = watchlist.map((subArray) => subArray["name"]);
